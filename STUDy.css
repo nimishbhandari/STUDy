@@ -1,0 +1,67 @@
+body
+{
+    background-color: rgba(173, 216, 230, 0.46);
+}
+div.fixed {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: auto;
+  border: .4vw solid #73AD21;
+    padding: .7vw;
+    background-color: black;
+    color: white;
+    font-size: 1.2vw;
+}
+
+h2
+{
+    text-align: center;
+    color: white;
+    background-color: rgba(32, 226, 99, 0.72);
+    font-size: 2vw;
+    font-family: red serif;
+     margin: auto;
+  width: 10vw;
+    height: 2vw;
+  border: .6vw solid #eef5ee;
+  padding: .7vw;
+    border-style: inset;
+            
+}
+h2:hover
+{
+    background-color: hotpink;
+}
+
+div.header
+{
+    background-color: #4be6e6;
+    margin: 5vw 5vw 0vw 5vw;
+    text-align: center;
+    padding: .7vw;
+    border-radius: 2vw;
+    font-size: 3vw;
+    
+    }
+
+#para
+{
+    font-size: 1.8vw;
+    
+}
+
+div.check
+a:hover
+{
+    color: aqua;
+}
+
+p.note
+{
+    background-color: black;
+    color:white;
+    font-size:1.5vw;
+    padding:.6vw;
+}
+
