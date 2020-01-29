@@ -1,5 +1,4 @@
-@media only screen and (min-width: 768px)
-{
+
 html
 {
     margin: 4%;
@@ -50,5 +49,3 @@ p.msg
 {
     font-size: 1.3vw;
 }
-}
-
