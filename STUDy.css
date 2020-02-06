@@ -1,7 +1,7 @@
 body
 {
     background-image: url('Screenshot%20(25).png') ;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-attachment: fixed;
 }
 div.fixed
@@ -22,16 +22,16 @@ button
     text-align: center;
     color: #eef5ee;
     background-color: rgba(0, 0, 0, 0.86);
-    font-size: vw;
+    font-size: 5vw;
     font-family: red serif;
     margin: auto;
-    width: 30vw;
-    height: 10vw;
+    width: 40vw;
+    height: 18vw;
     border: none;
     padding: none;
     border-style: none;
     position: relative;
-    left:40%;  
+    left:33%;  
     cursor: pointer;
     
 }
