@@ -1,3 +1,4 @@
+
 html
 {
     margin: 4%;
@@ -5,8 +6,69 @@ html
 }
 body
 {
-    background-color: rgb(173, 216, 230);
+    background-color: rgba(147, 147, 147, 0.38);
 }
+.semb
+{
+    text-align: center;
+    color: #eef5ee;
+    background-color: rgba(0, 0, 0, 0.86);
+    font-size: 1.6vw;
+    font-family: red serif;
+    margin: auto;
+    width: 8vw;
+    height: 3vw;
+    border: none;
+    padding: none;
+    border-style: none;
+    position: relative;
+    left:0%;  
+    cursor: pointer;
+    
+}
+.semb2
+{
+    text-align: center;
+    color: #eef5ee;
+    background-color: rgba(0, 0, 0, 0.86);
+    font-size: 1.6vw;
+    font-family: red serif;
+    margin: auto;
+    width: 8vw;
+    height: 3vw;
+    border: none;
+    padding: none;
+    border-style: none;
+    position: relative;
+    left:70%;  
+    cursor: pointer;
+    
+}
+
+.semb1
+{
+    text-align: center;
+    color: #eef5ee;
+    background-color: rgba(0, 0, 0, 0.86);
+    font-size: 1.6vw;
+    font-family: red serif;
+    margin: auto;
+    width: 8vw;
+    height: 3vw;
+    border: none;
+    padding: none;
+    border-style: none;
+    position: relative;
+    left:70%;  
+    cursor: pointer;
+    display: 
+}
+button:hover
+{
+    background-color: rgba(2, 2, 2, 0.43);
+    box-shadow: 0 100px 100px 0 black, 0 100px 500px 0 black;
+}
+
 
 h1
 {
@@ -33,17 +95,20 @@ a:hover
     font-size: 2vw;
 }
 
-div.fixed {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  width: auto;
-  border: 3px solid #73AD21;
-    padding: 10px;
+div.fixed
+{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    width: auto;
+    border: .4vw;
+    padding: .6vw;
     background-color: black;
     color: white;
-        font-size: 1.2vw;
+    font-size: 1.2vw;
 }
+
 p.msg
 {
     font-size: 1.3vw;
