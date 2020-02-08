@@ -28,62 +28,6 @@ body
 }
 
 .pagination a:hover:not(.active) {background-color: #ddd;}
-
-.semb
-{
-    text-align: center;
-    color: #eef5ee;
-    background-color: rgba(0, 0, 0, 0.86);
-    font-size: 1.6vw;
-    font-family: red serif;
-    margin: auto;
-    width: 8vw;
-    height: 3vw;
-    border: none;
-    padding: none;
-    border-style: none;
-    position: relative;
-    left:0%;  
-    cursor: pointer;
-    
-}
-.semb2
-{
-    text-align: center;
-    color: #eef5ee;
-    background-color: rgba(0, 0, 0, 0.86);
-    font-size: 1.6vw;
-    font-family: red serif;
-    margin: auto;
-    width: 8vw;
-    height: 3vw;
-    border: none;
-    padding: none;
-    border-style: none;
-    position: relative;
-    left:70%;  
-    cursor: pointer;
-    
-}
-
-.semb1
-{
-    text-align: center;
-    color: #eef5ee;
-    background-color: rgba(0, 0, 0, 0.86);
-    font-size: 1.6vw;
-    font-family: red serif;
-    margin: auto;
-    width: 8vw;
-    height: 3vw;
-    border: none;
-    padding: none;
-    border-style: none;
-    position: relative;
-    left:70%;  
-    cursor: pointer;
-    display: 
-}
 button:hover
 {
     background-color: rgba(2, 2, 2, 0.43);
