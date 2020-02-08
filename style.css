@@ -73,8 +73,12 @@ button:hover
 h1
 {
     text-align: center;
-    font-family:sans-serif;
+    font-family:normal;
     font-size: 4.5vw;
+    border: dashed ;
+    border-width: 5;
+    border-radius: 10px;
+    
 }
 h2
 {
@@ -91,7 +95,7 @@ div.papers
 div.papers
 a:hover
 {
-    color: black;
+    color: grey;
     font-size: 2vw;
 }
 
