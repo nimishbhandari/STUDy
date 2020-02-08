@@ -27,12 +27,7 @@ body
   border: 1px solid #4CAF50;
 }
 
-.pagination a:hover:not(.active) {background-color: #ddd;}
-button:hover
-{
-    background-color: rgba(2, 2, 2, 0.43);
-    box-shadow: 0 100px 100px 0 black, 0 100px 500px 0 black;
-}
+.pagination a:hover:not(.active) {background-color: rgba(64, 64, 64, 0.58);}
 
 
 h1
