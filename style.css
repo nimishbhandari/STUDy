@@ -1,7 +1,7 @@
 
 html
 {
-    margin: 17% 4% 4% 4%;
+    margin: 3% 4% 4% 4%;
     padding: 4% 4% 4% 4%;
 }
 
@@ -43,7 +43,7 @@ a:hover
 .menu-wrap {
   position: fixed;
   top: 0;
-  left: 35%;
+  left: 47%;
   z-index: 1;
 }
 
@@ -53,8 +53,8 @@ a:hover
   left: 0;
   z-index: 2;
   cursor: pointer;
-  width: 130px;
-  height: 75px;
+  width: 60px;
+  height: 36px;
   opacity: 0;
 }
 
@@ -63,7 +63,7 @@ a:hover
   top: 0;
   left: 0;
   z-index: 1;
-  width: 100px;
+  width: 60px;
   height: 40px;
   padding: 1rem;
   background: var(--primary-color);
@@ -171,7 +171,8 @@ a:hover
 .menu-wrap .menu > div > div > ul > li {
   list-style: none;
   color: #fff;
-  font-size: 1.5rem;
+  font-size: 3rem;
+    font-family: sans-serif;
   padding: 1rem;
 }
 
@@ -180,7 +181,14 @@ a:hover
   text-decoration: none;
   transition: color 0.4s ease;
 }
-
+.glyphicon-home
+    {
+        position: absolute;
+        left:0%;
+        top:0;
+        font-size: 40px;
+        color:  rgba(13, 110, 139, 0.75)
+    }
 
 
 
@@ -256,8 +264,8 @@ p.msg
   top: 0;
   left: 0;
   z-index: 1;
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
   padding: 1rem;
   background: var(--primary-color);
   display: flex;
@@ -363,8 +371,9 @@ p.msg
 
 .menu-wrap .menu > div > div > ul > li {
   list-style: none;
-  color: #fff;
-  font-size: 1.5rem;
+    color: #fff;
+  font-size: 25px;
+    font-family: normal;
   padding: 1rem;
 }
 
@@ -373,5 +382,14 @@ p.msg
   text-decoration: none;
   transition: color 0.4s ease;
 }
+    
+.glyphicon-home
+    {
+        position: absolute;
+        left:45%;
+        top:0;
+        font-size: 50px;
+        color:  rgba(13, 110, 139, 0.75)
+    }
 }
 
